@@ -11,7 +11,7 @@ Created Rode-Clone using Tailwind CSS.
 ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-HTML5%20%7C%20TailwindCSS-blue)
 
 ## Website Link (Responsive):
-###  [Live]()
+###  [Live](https://rode-clone-fs-js.netlify.app/)
 
 ## Screenshot:
 ![](./screenshot/rode-clone-screenshot.png)

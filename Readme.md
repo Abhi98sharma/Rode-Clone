@@ -11,10 +11,18 @@ Created Rode-Clone using Tailwind CSS.
 ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-HTML5%20%7C%20TailwindCSS-blue)
 
 ## Website Link (Responsive):
-###  [Live]()
+### [Live](https://rode-clone-fs-js.netlify.app/)
+
+## Skills Gained in this project:
+- Tailwind
+- Tailwind's Components
+- Button styling and animation effect
+- Grid and Flexbox
+- Media queries breakpoints from Tailwind CSS for mobile responsiveness
 
 ## Screenshot:
-![](./screenshot/rode-clone-screenshot.png)
+
+![RØDE-Microphones-image](https://user-images.githubusercontent.com/107188710/185667101-f8c27acf-17d4-4990-9b0c-c7ab3e5fedc1.png)
 
 ***Note: Resolving a few small bugs remaining***
 

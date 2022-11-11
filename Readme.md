@@ -24,7 +24,7 @@ Created Rode-Clone using Tailwind CSS.
 
 ![RØDE-Microphones-image](https://user-images.githubusercontent.com/107188710/185667101-f8c27acf-17d4-4990-9b0c-c7ab3e5fedc1.png)
 
-***Note: Resolving a few small bugs remaining***
+>***DISCLAIMER***: THIS PAGE WAS MADE AS A PERSONAL EDUCATIONAL PROJECT. This is NOT the official site of the company or brand identified on the page. The creator of this page is NOT affiliated with the company or brand in any way. This page is a personal project made in connection with an educational exercise.
 
 
 
